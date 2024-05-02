@@ -1,2 +1,2 @@
 # Stunning HTML & CSS Card Animation
-![Thumbnail](thumbnail.png)
+![Thumbnail](thumbnailPro.png)
